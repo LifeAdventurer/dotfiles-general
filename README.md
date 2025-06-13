@@ -1,4 +1,4 @@
-# My Personal Public Dotfiles
+# My Personal Public Dotfiles (Deprecated)
 
 This repository contains my personal configurations for various tools and
 applications, including Neovim (LazyVim with my own keymaps) and Git.
